@@ -8,6 +8,7 @@ $ git clone https://github.com/Juneyoung-Kang/mojave-login-background.git
 $ cd mojave-login-background
 $ swift main.swift <image file>
 ```
+> It needs to be run as root, as it saves to /Library/Desktop Pictures.
 
 ## Developer
 JUNEYOUNG KANG [juneyoungdev@gmail.com](mailto:juneyoungdev@gmail.com)
